@@ -1,5 +1,5 @@
 # web-traffic-analysis
-🚀 Project Overview
+## 🚀 Project Overview
 This project provides a comprehensive analysis of a website traffic dataset to identify user behavior patterns, measure key performance indicators (KPIs), and derive actionable insights for marketing and website optimization. The entire data lifecycle is covered, from cleaning and preparation in a MySQL database to final visualization in a summary dashboard.
 
 The analysis focuses on answering critical business questions such as:
@@ -14,7 +14,7 @@ How effective is the website at retaining users over time?
 
 📊 Dashboard Preview The final output is a comprehensive dashboard that visually summarizes the key findings from the analysis.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Database: MySQL Data Cleaning & Analysis: SQL
 
@@ -22,7 +22,7 @@ Data Generation: Python
 
 Visualization: Power BI / Tableau
 
-📈 Project Workflow
+## 📈 Project Workflow
 
 Data Cleaning and Preparation: The raw dataset was loaded into a MySQL database named web_traffic_db. Data quality was ensured by handling missing values and removing outliers, such as capping
 
@@ -42,7 +42,7 @@ Retention Rate: A cohort analysis was performed using advanced SQL (CTEs) to fin
 
 Data Analysis & Visualization: The aggregated data was used to build the final dashboard, visualizing trends in traffic, conversions, and user engagement over time.
 
-💡 Key Insights & Results
+## 💡 Key Insights & Results
 
 Top Performing Channel: Organic Search is the most valuable traffic source, driving the highest number of sessions (8.0K) and the most conversions (409, or 41.35% of the total).
 
